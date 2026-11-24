@@ -3,3 +3,5 @@ out/
 transcripts.tar.gz
 bundle-dry.json
 *.log
+reqs.json
+bundle-dry.json
